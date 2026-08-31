@@ -1,1 +1,1 @@
-$\color{##BDAE94}{\textsf{hi}}$
+$\color{#B3806B}{\textsf{hi}}$
